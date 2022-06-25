@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.17)  1 APR 2022 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.3.17)  25 JUN 2022 09:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,7 +341,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--218
  []
 
 [3]
-Overfull \hbox (1.35287pt too wide) in paragraph at lines 278--279
+Overfull \hbox (1.35287pt too wide) in paragraph at lines 280--281
 []\OT1/cmr/m/n/10 Presented a poster on global rice trade com-pet-i-tive-ness at the Third In-ter-na-tional Rice Congress
  []
 
@@ -358,7 +358,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  60i,8n,63p,504b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/prithvirajlakkakula/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk> </Users/prithvirajlakkakula/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1000.600pk></Users/prithvirajlakkakula/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/prithvirajlakkakula/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/prithvirajlakkakula/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/prithvirajlakkakula/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/prithvirajlakkakula/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/prithvirajlakkakula/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/prithvirajlakkakula/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV_Lakkakula.pdf (5 pages, 126896 bytes).
+Output written on CV_Lakkakula.pdf (5 pages, 127102 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
